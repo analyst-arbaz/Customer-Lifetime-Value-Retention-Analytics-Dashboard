@@ -9,9 +9,15 @@
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](https://github.com/analyst-arbaz/Customer-Lifetime-Value-Retention-Analytics-Dashboard/blob/29f88e560900b6c19a283c0cc786a74ff4290c8f/Dashboard.png?raw=true)
+
+---
+
 ## 🔗 Live Dashboard
 
-📎 **Power BI Dashboard Link:** https://github.com/analyst-arbaz/Customer-Lifetime-Value-Retention-Analytics-Dashboard/blob/a98fb4c1f647dbe5cf2a5b8d18256e85fe3b22ac/Dashboard.pbix
+📎 **Power BI Dashboard Link:** [Add your published Power BI dashboard link here]
 
 *(Replace this with your actual Power BI Service publish link once available. If you haven't published it yet, go to Power BI Desktop → Home → Publish → select your workspace, then copy the report link from the Power BI Service.)*
 
@@ -230,9 +236,9 @@ Customer-Lifetime-Value-Retention-Analytics/
 Data Analyst | Power BI Developer | SQL | Python | Business Intelligence
 
 📧 Email: [arbazkhan21223@gmail.com](mailto:arbazkhan21223@gmail.com)
-💼 LinkedIn: [Arbaz-Data-Analyst](https://www.linkedin.com/in/arbaz-data-analyst/)
-🌐 Portfolio: [Developer Arbaz](https://developer-arbaz.github.io/developerarbaz.github.io/)
-🐙 GitHub: [developer-arbaz](https://github.com/developer-arbaz)
+💼 LinkedIn: [Arbaz-Data-Analyst](linkedin.com/in/arbaz-data-analyst)
+🌐 Portfolio: [Analyst Arbaz](https://analyst-arbaz.github.io/)
+🐙 GitHub: [Analyst-arbaz](https://github.com/analyst-arbaz)
 
 ---
 
