@@ -11,7 +11,7 @@
 
 ## 🔗 Live Dashboard
 
-📎 **Power BI Dashboard Link:** [Add your published Power BI dashboard link here]
+📎 **Power BI Dashboard Link:** https://github.com/analyst-arbaz/Customer-Lifetime-Value-Retention-Analytics-Dashboard/blob/a98fb4c1f647dbe5cf2a5b8d18256e85fe3b22ac/Dashboard.pbix
 
 *(Replace this with your actual Power BI Service publish link once available. If you haven't published it yet, go to Power BI Desktop → Home → Publish → select your workspace, then copy the report link from the Power BI Service.)*
 
